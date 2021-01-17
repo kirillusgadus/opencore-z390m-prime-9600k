@@ -6,7 +6,7 @@ Masterboard: Prime Z390m
 
 NVME: SamSung 970 EVO
 
-GPU: no external GPU
+GPU: Radeon RX 580 8GB Pulse
 
 ### BIOS Settings
 
